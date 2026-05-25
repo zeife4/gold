@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.idea/
+*.pyc
+*.pyo
+*.log
+*.lnk
+gold_error.txt
+gold_log.txt
+.DS_Store
